@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://www.hackyourfuture.dk/static/logo-dark.svg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Meal sharing</h3>
+<h3 align="center">Fullstack boilerplate</h3>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> Website for sharing meals together. Invite your best friends or your family for dinner!
+<p align="center"> Fullstack boilerplate
     <br> 
 </p>
 
@@ -33,20 +33,6 @@
 This project is an exercise for HackYourFuture students to learn the concepts of full stack development with a focus on the connection between:
 
 Database <--> Webserver <--> Frontend
-
-## 🏁 Getting Started <a name = "getting_started"></a>
-The homework for week4 should be made in a standalone repo on your github profile, so you can show it friends/new employeers/headhunters etc. 
-
-Here are the steps to do that:
-
-1. Create a new repository on your github profile. 
-2. Clone that repository down locally. 
-3. Copy the code for the template from the this folder into the newly created repo. 
-4. Now copy last weeks `server` folder into the new repo in the `src` folder. You will now have a `server` folder and a `client` folder in the `src` folder.
-5. Add, commit and push the changes to your github.
-6. In the `hyf-homework/node/week4` just add a text file with the link to the newly created repo.
-7. Thats it 🎉
-
 
 ### Access server api
 To access the server api, use `localhost:3000/api`
