@@ -3,5 +3,6 @@ var router = new Navigo(root);
 
 // when no route specified it assumes the base route: "/"
 router.on(window.handleHomeRequest).resolve();
-router.on("/meals", window.handleMealsRequest).resolve();
-router.on("/meal/:id", window.handleMealRequest).resolve();
+router.on("/contacts", window.handleContactsRequest).resolve();
+router.on("/contact/:id", window.handleContactRequest).resolve();
+router.on("/reservation", window.handleReservationRequest).resolve();

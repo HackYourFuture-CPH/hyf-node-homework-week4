@@ -1,4 +1,4 @@
-window.handleMealRequest = params => {
+window.handleContactRequest = (params) => {
   document.body.innerHTML = `
   <h1>Meal with id ${params.id}</h1>`;
 };
