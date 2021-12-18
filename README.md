@@ -56,7 +56,7 @@ To install run `npm install`
 To run `npm run dev`
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Set Heroku with automated builds to the master branch.  push your code to the `master` branch. 
+Set Heroku with automated builds to the `main` branch.  push your code to the `main` branch. 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Mysql](https://www.npmjs.com/package/mysql) - Database
